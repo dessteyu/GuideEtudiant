@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GuideEtudiant</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string-array name="aideList">
+        <item>Système LMD</item>
+        <item>Processus d\'Inscription</item>
+        <item>Se retrouver</item>
+        <item>Le Social</item>
+        <item>Se restaurer</item>
+        <item>Le Bibliothèque</item>
+        <item>Les Amicales</item>
+        <!--<item>Le CLOUD</item>-->
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>
